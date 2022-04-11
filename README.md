@@ -76,12 +76,12 @@ Increasing or decreasing the long_window SMA values decreased macro avg accuracy
 
 Option 3: Choose the set of parameters that best improved the trading algorithm returns. 
 3 month date offset and 4 short_window and 100 long_window
-!['Baseline Model'](./images/original_model.png)
+!['Baseline Model'](https://github.com/hugokos/ml_trading_bot/blob/master/images/original_model.PNG)
 
 
 Option 4: Leverage a new machine learning classifier (LogisticRegression)
 This logistic regression model preformed worse than the baseline and tuned models. The Logistic Regression model initially had better performance, but ended up under performing in the in the final time periods. 
-!['Logistic Regression'](./images/logistic_regression_model.png)
+!['Logistic Regression'](https://github.com/hugokos/ml_trading_bot/blob/master/images/logistic_regression_model.PNG)
 
 ## Contributors
 
